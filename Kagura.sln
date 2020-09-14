@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kagura", "Kagura\Kagura.csproj", "{62B3E49A-EA8F-41F9-8215-18C9383B7844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62B3E49A-EA8F-41F9-8215-18C9383B7844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B3E49A-EA8F-41F9-8215-18C9383B7844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B3E49A-EA8F-41F9-8215-18C9383B7844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B3E49A-EA8F-41F9-8215-18C9383B7844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAA424F6-5D04-431C-8202-5E32A0CEE92E}
+	EndGlobalSection
+EndGlobal
