@@ -5,8 +5,28 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Kagura"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Kagura" Height="400" Width="600">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" TextAlignment="Right">"Songs" folder :</TextBlock>
+        <TextBox Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Name="SongsPath">A:\Games\Stepmania 5.0.12\Testing\</TextBox>
+        <ToggleButton Grid.Row="1" Grid.Column="0" Name="BtnDebug">Debug Mode</ToggleButton>
+        <ToggleButton Grid.Row="1" Grid.Column="1" Name="BtnWrite">Overwrite Files</ToggleButton>
+        <ToggleButton Grid.Row="1" Grid.Column="2" Name="BtnStats">Save Stats</ToggleButton>
+        <Button Grid.Row="2" Grid.Column="1" Click="RateSongs">Rate Songs</Button>
+        <ProgressBar Grid.Row="3" Grid.ColumnSpan="3" Name="Progress" Value="0"></ProgressBar>
+        <TextBlock Grid.Row="3" Grid.ColumnSpan="3"  Name="PacksDone" TextAlignment="Center"></TextBlock>
+        <TextBox Grid.Row="4" Grid.ColumnSpan="3"  Name="Output" FontFamily="Consolas" FontSize="20"></TextBox>
     </Grid>
 </Window>

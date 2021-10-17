@@ -1,0 +1,15 @@
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\obj\Debug\Kagura.csprojAssemblyReference.cache
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\obj\Debug\MainWindow.g.cs
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\obj\Debug\App.g.cs
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\obj\Debug\Kagura_MarkupCompile.cache
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\obj\Debug\Kagura_MarkupCompile.lref
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\bin\Debug\Kagura.exe.config
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\bin\Debug\Kagura.exe
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\bin\Debug\Kagura.pdb
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\obj\Debug\MainWindow.baml
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\obj\Debug\Kagura.g.resources
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\obj\Debug\Kagura.Properties.Resources.resources
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\obj\Debug\Kagura.csproj.GenerateResource.cache
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\obj\Debug\Kagura.csproj.CoreCompileInputs.cache
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\obj\Debug\Kagura.exe
+A:\Users\Azarel Winters\source\repos\Kagura\Kagura\obj\Debug\Kagura.pdb
